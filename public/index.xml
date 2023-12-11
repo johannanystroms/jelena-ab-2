@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JELENA AB</title>
+    <link>https://example.org/</link>
+    <description>Recent content on JELENA AB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JELENA AB</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>JELENA AB är en av Skandinaviens mest moderna arkitektbyrå inom abstrakt och hållbar konst. </description>
+    </item>
+    
+    <item>
+      <title>Kontakta oss</title>
+      <link>https://example.org/kontakta-oss/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://example.org/kontakta-oss/</guid>
+      <description>JELENA AB är ett av Skandinaviens mest moderna arkitektkontor inom abstrakt och hållbar konst. Vill du veta mer? Kontakta oss!
+Johanna Nyström VD Arkitekt &amp;amp; konstnär +46 73 097 99 70
+Johannanystrom@jelenaab.se
+Elna Ressner Vice VD Arkitekt &amp;amp; konstnär +46 73 324 23 30
+Elnaressner@jelenaab.se
+Esmir Islamovic CTO +46 76 325 62 67
+Esmirislamovic@jelenaab.se
+Frida Norrman Harling Marknadschef &amp;amp; Medieansvarig +46 72 399 59 82
+Fridanorrmanharling@jelenaab.se
+Praktik och jobb Jobb@jelenaab.se</description>
+    </item>
+    
+    <item>
+      <title>Om oss</title>
+      <link>https://example.org/om-oss/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://example.org/om-oss/</guid>
+      <description>JELENA AB grundades 2013 av arkitekterna Johanna Nyström och Elna Ressner. Efter sin utbildning på Instituto Marangoni i Milano gick dessa två konstnärer ihop och skapade ett av skandinaviens mest moderna arkitektkontor med inriktning på abstrakt och hållbar konst. Målet är att skapa hållbara och unika konstverk för alla att ta del och njuta av. För dig som vill ha hjälp med att skapa, forma eller konstruera ett unikt konstverk, kanske endast för dig, eller för hela världen att skåda, så finns JELENA AB här för att hjälpa dig.</description>
+    </item>
+    
+    <item>
+      <title>Projekt</title>
+      <link>https://example.org/projekt/</link>
+      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
+      
+      <guid>https://example.org/projekt/</guid>
+      <description>Lekens Puls i Abstraktion I år fick JELENA AB äran att vara med i en av Malmö stads största arkitekturtävlingar. Tävlingen handlar om att bygga ett hållbart konstverk på taket av universitetsbyggnaden Niagara i Malmö. Kraven som ställs på deltagarna är särskilt riktade mot hållbarhet. JELENA AB har som grundprincip att minska koldioxidutsläppen för varje projekt vi gör. Då vi riktar in oss på hållbart bygge i alla våra projekt så har denna tävlingen passat in i företagets egna visioner.</description>
+    </item>
+    
+  </channel>
+</rss>
