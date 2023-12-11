@@ -1,10 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'JELENA AB'
-[module]
-  [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
-
+theme = 'PaperMod'
 
 [params]
 ShowShareButtons = true
@@ -28,7 +25,3 @@ ShareButtons = [ "linkedin", "twitter" ]
   name = 'Kontakta oss'
   url = '/Kontakta-oss/'
   weight = 40
-
-
-
-
