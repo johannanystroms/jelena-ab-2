@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'JELENA AB'
+theme = 'papermod'
+
+[params]
+ShowShareButtons = true
+ShareButtons = [ "linkedin", "twitter" ]
+
+
+[[menu.main]]
+  identifier = 'Projekt'
+  name = 'Projekt'
+  url = '/Projekt/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'Om oss'
+  name = 'Om oss'
+  url = '/Om-oss/'
+  weight = 30
+
+  [[menu.main]]
+  identifier = 'Kontakta oss'
+  name = 'Kontakta oss'
+  url = '/Kontakta-oss/'
+  weight = 40
+
+
+
+
