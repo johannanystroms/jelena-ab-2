@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'JELENA AB'
-theme = 'github.com/adityatelange/hugo-PaperMod'
+theme = 'https://github.com/adityatelange/hugo-PaperMod'
 
 [params]
 ShowShareButtons = true
