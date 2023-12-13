@@ -3,15 +3,17 @@ title: "Kontakta oss"
 date: 2022-11-20T09:03:20-08:00
 draft: false
 Cover:
-    image: img/jelena-ps.png
+    image: img/tsm-web.jpg
     alt: 'This is a post image' 
     caption: All copyrights reserved to JELENA AB 2023©
 ---
 
 
+
+
 JELENA AB är ett av Skandinaviens mest moderna arkitektkontor inom abstrakt och hållbar konst. Vill du veta mer? Kontakta oss!
 
-![targets](/img/johanna.jpg)
+![targets](/img/johanna-web.jpg)
 
 ### Johanna Nyström
 ### VD
@@ -22,7 +24,7 @@ JELENA AB är ett av Skandinaviens mest moderna arkitektkontor inom abstrakt och
 Johannanystrom@jelenaab.se
 
 
-![targets](/img/elna_kontakta.jpg)
+![targets](/img/elna-web.jpg)
 
 ### Elna Ressner
 ### Vice VD
@@ -33,7 +35,7 @@ Johannanystrom@jelenaab.se
 Elnaressner@jelenaab.se 
 
 
-![targets](/img/esmir.jpg)
+![targets](/img/esmir-web.jpg)
 
 ### Esmir Islamovic
 ### CTO
@@ -43,7 +45,7 @@ Elnaressner@jelenaab.se
 Esmirislamovic@jelenaab.se
 
 
-![targets](/img/frippan.jpg)
+![targets](/img/frippan-web.jpg)
 
 ### Frida Norrman Harling
 ### Marknadschef & Medieansvarig
@@ -52,6 +54,13 @@ Esmirislamovic@jelenaab.se
 
 Fridanorrmanharling@jelenaab.se
 
+
+
+
+
+![targets](/img/hr-web.jpg)
+### Miso
+HR, kontorets maskot
 
 
 
