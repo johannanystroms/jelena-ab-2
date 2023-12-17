@@ -3,12 +3,10 @@ title: "Testa själv!"
 date: 2023-11-20T09:03:20-08:00
 draft: false
 Cover:
-    image: testa-själv.svg
+    image: själv.svg
     alt: 'This is a post image' 
-    caption: All copyrights reserved to JELENA AB 2023©
+    caption:  
 ---
-
-### Testa själv!
 
 Har du fastnat? Tänker du bara på trianglar och cirklar eller ett föremål som är bekant för allmänheten? Här kommer ett tips från oss som du kan testa själv! 
 
