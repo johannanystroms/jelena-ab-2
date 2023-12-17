@@ -8,9 +8,9 @@ Cover:
     caption:  
 ---
 
-Har du fastnat? Tänker du bara på trianglar och cirklar eller ett föremål som är bekant för allmänheten? Här kommer ett tips från oss som du kan testa själv! 
+Har du fastnat? Tänker du bara på trianglar och cirklar eller ett föremål som är bekant för allmänheten? Här kommer ett tips från oss som du kan testa själv!
 
-#### Material:
+### Material:
 Något att måla på
 Färger. Det kan vara pennor, målarfärg, vattenfärg. Du bestämmer!
 Något att applicera färgen med. Var inte rätt för att smutsa ner dig!
@@ -30,4 +30,4 @@ Utifrån det konstverk du har framför dig väljer du nu en ny färg och upprepa
 #### Steg 5. 
 Låt konstverket torka och återgå sedan för att analysera vad du skapat. Är du nöjd? Vill du addera något? En till färg eller ett nytt streck? Var inte rädd för att experimentera och utforska!
 
-Du har nu ett unikt konstverk framför dig! Bjud över några vänner för att testa. Eller varför inte ta med det in till oss och ta det till nästa steg!
+#### Du har nu ett unikt konstverk framför dig! Bjud över några vänner för att testa. Eller varför inte ta med det in till oss och ta det till nästa steg!

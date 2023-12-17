@@ -21,6 +21,8 @@ Vill du ha hjälp, inspiration, eller har du redan en vision som du vill skapa t
 
 För att skapa ett konstverk krävs det ibland mer än vad fantasin kan ge oss. Vi vill hjälpa till! Vi kan tillsammans med dig hitta rätt material, ta din idé till nästa steg, eller skapa en vision för var din idé ska sluta upp. Tillsammans kan vi skapa ett unikt verk som omvärlden får ta del av. Vi gör din vision till verklighet. 
 
+### Hitta oss!
 
+Vårt kontor hittar du i det välkända Turning Torso, beläget vid västra hamnen i Malmö. Våra öppettider hittar du på fliken “Kontakta oss”. Boka gärna ett möte med oss och njut av utsikten över Öresund! 
 
 
