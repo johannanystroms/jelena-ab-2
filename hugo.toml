@@ -22,7 +22,13 @@ label.icon = "jelena-logga.png"
   weight = 30
 
   [[menu.main]]
+  identifier = 'Tjänster'
+  name = 'Tjänster'
+  url = '/Tjänster/'
+  weight = 40
+
+  [[menu.main]]
   identifier = 'Kontakta oss'
   name = 'Kontakta oss'
   url = '/Kontakta-oss/'
-  weight = 40
+  weight = 50

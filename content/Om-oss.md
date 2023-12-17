@@ -3,10 +3,10 @@ title: "Om oss"
 date: 2023-11-20T09:03:20-08:00
 draft: false
 Cover:
-    image: img/om-oss-header.jpg
+    image: rosa-logotyp.svg
     alt: 'This is a post image' 
-    caption: All copyrights reserved to JELENA AB 2023©
 ---
+###
 
 JELENA AB grundades 2013 av arkitekterna Johanna Nyström och Elna Ressner. Efter sin utbildning på Instituto Marangoni i Milano gick dessa två konstnärer ihop och skapade ett av skandinaviens mest moderna arkitektkontor med inriktning på abstrakt och hållbar konst. Målet är att skapa hållbara och unika konstverk för alla att ta del och njuta av.  För dig som vill ha hjälp med att skapa, forma eller konstruera ett unikt konstverk, kanske endast för dig, eller för hela världen att skåda, så finns JELENA AB här för att hjälpa dig. 
 
