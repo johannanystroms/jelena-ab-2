@@ -5,7 +5,7 @@ theme = 'PaperMod'
 
 [params]
 ShowShareButtons = true
-ShareButtons = [ "linkedin", "twitter" ]
+ShareButtons = [ "linkedin", "twitter", "facebook" ]
 label.icon = "jelena-logga.png"
 
 
