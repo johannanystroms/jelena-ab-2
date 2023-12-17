@@ -11,8 +11,7 @@ Cover:
 Har du fastnat? Tänker du bara på trianglar och cirklar eller ett föremål som är bekant för allmänheten? Här kommer ett tips från oss som du kan testa själv!
 
 ### Material:
-Något att måla på
-Färger. Det kan vara pennor, målarfärg, vattenfärg. Du bestämmer!
+Något att måla på. Färger, det kan vara pennor, målarfärg, vattenfärg. Du bestämmer!
 Något att applicera färgen med. Var inte rätt för att smutsa ner dig!
 
 #### Steg 1.
