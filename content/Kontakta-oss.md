@@ -3,7 +3,7 @@ title: "Kontakta oss"
 date: 2023-11-20T09:03:20-08:00
 draft: false
 Cover:
-    image: img/tsm-web.jpg
+    image: img/ny-tsm.jpg
     alt: 'This is a post image' 
     caption: All copyrights reserved to JELENA AB 2023©
 ---
