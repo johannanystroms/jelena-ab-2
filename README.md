@@ -1,12 +1,13 @@
 # jelena-ab
  
- JELENA AB är skapat av Johanna Nyström och Elna Ressner med hjälp utav HUGO och temat PaperMod.
+ JELENA AB är skapat av Johanna Nyström och Elna Ressner med hjälp utav GoHugo och temat PaperMod.
 
  Följande är vad vi har skapat med ovanstående:
   Ändrat samtliga texter
   Lagt upp bilder
   Ändrat i HTML-kod (under layout, partials, header.html) för att lägga till JELENA ABs logotyp
-  Skapat en hemsida
+  Skapat en domän
+  Skapat en menyfinder
   Skapat posts under content samt under content - posts
   Anpassat samtliga bilder samt logotyp för att webbanpassa dessa
   Fått förståelse för yoml samt toml samt konverterat kod
