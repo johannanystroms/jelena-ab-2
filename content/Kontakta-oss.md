@@ -79,3 +79,9 @@ Lilla Varvsgatan 14
 +46 13 18 02 54
 
 
+Öppettider:
+
+Måndag - Torsdag: 11.00 - 13.00
+
+Fredag - Söndag: Stängt
+
