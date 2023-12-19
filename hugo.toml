@@ -1,7 +1,8 @@
 baseURL = 'https://jelenaab.netlify.app/'
 languageCode = 'en-us'
 title = ' '
-theme = 'PaperMod'
+theme = ["hugo-embed-pdf-shortcode", "PaperMod"]
+enableInlineShortcodes = true
 
 [params]
 ShowShareButtons = true

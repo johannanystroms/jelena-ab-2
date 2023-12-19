@@ -14,6 +14,8 @@ I år fick JELENA AB äran att vara med i en av Malmö stads största arkitektur
 JELENA AB tävlar med bidraget “Lekens Puls i Abstraktion” och idén är att skapa en lekpark i abstrakt utformning som ska fungera både praktiskt och vara visuellt njutbart. Bygget beräknas påbörjas 2024 och invånarna i Malmö stad får själva vara med och rösta fram vinnarna.
 
 
+{{< embed-pdf url="/reportage.pdf" >}}
+
 
 
 

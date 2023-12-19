@@ -63,13 +63,13 @@ Fridanorrmanharling@jelenaab.se
 HR, kontorets maskot
 
 
-
+![targets](/gubbe.svg)
 ### Praktik och jobb
 Jobb@jelenaab.se 
 
 
 
-
+![targets](/turning-torso.svg)
 ### Vårt kontor
 Lilla Varvsgatan 14 
 

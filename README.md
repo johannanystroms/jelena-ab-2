@@ -7,6 +7,7 @@
   Skapat och lagt upp illustrationer
   Lagt upp egentagna bilder
   Ändrat i HTML-kod (under layout, partials, header.html), hugo.toml samt css (asset, css, common, header.css)för att lägga till JELENA ABs logotyp, ta bort titel och ta bort funktion att ändra till light mode. 
+  Bäddat in PDF genom att använda en submodule
   Tagit bort ikonerna måne och sol
   Skapat en domän
   Skapat en menyfinder med flikar
