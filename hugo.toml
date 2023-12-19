@@ -1,12 +1,14 @@
 baseURL = 'https://jelenaab.netlify.app/'
 languageCode = 'en-us'
-title = 'JELENA AB'
+title = ' '
 theme = 'PaperMod'
 
 [params]
 ShowShareButtons = true
 ShareButtons = [ "linkedin", "twitter", "facebook" ]
-label.icon = "jelena-logga.png"
+label.icon = "rosa-logotyp.svg"
+themeVariant = "dark"
+
 
 
 [[menu.main]]
@@ -32,3 +34,5 @@ label.icon = "jelena-logga.png"
   name = 'Kontakta oss'
   url = '/Kontakta-oss/'
   weight = 50
+
+
