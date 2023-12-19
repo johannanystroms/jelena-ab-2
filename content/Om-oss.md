@@ -12,5 +12,5 @@ JELENA AB grundades 2013 av arkitekterna Johanna Nyström och Elna Ressner. Efte
 
 JELENA AB står bakom en rad olika konstverk runt om i världen, bland annat har de utformat en del i det välkända museet Haus der Musik i Österrike. Just nu är de även engagerade i en konsttävling arrangerad av Malmö stad. Vinnarna får äran att skapa ett konstprojekt på taket av universitetsbyggnaden Niagara. Där har de även varit med i ett filmreportage som gör en djupdykning i tävlingens utvalda kandidater. Kika gärna under fliken “Projekt” för att veta mer!
 
-Innehållet på våran hemsida är för dig som kund att lära känna oss och den konst vi har att erbjuda. Den riktar sig också till dig som vill inspireras och lära dig mer om den abstrakta arkitekturen. 
+Innehållet på våran webbsida är för dig som kund att lära känna oss och den konst vi har att erbjuda. Den riktar sig också till dig som vill inspireras och lära dig mer om den abstrakta arkitekturen. 
 
