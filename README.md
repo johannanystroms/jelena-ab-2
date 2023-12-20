@@ -1,6 +1,6 @@
 # jelena-ab
  
- JELENA AB är skapat av Johanna Nyström och Elna Ressner med hjälp utav GoHugo och temat PaperMod.
+ https://jelenaab.netlify.app/ är skapat av Johanna Nyström och Elna Ressner med hjälp utav GoHugo och temat PaperMod.
 
  Följande är vad vi har skapat med ovanstående:
   Lagt till samtliga texter
