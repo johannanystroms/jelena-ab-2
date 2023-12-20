@@ -63,7 +63,7 @@ Fridanorrmanharling@jelenaab.se
 HR, kontorets maskot
 
 
-![targets](/gubbe.svg)
+![targets](/gubbe-rosa.svg)
 ### Praktik och jobb
 Jobb@jelenaab.se 
 
