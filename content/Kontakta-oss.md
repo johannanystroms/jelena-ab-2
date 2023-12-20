@@ -94,3 +94,6 @@ Måndag - Torsdag: 11.00 - 13.00
 
 Fredag - Söndag: Stängt
 
+
+
+[def]: /gubbe.svg

@@ -3,7 +3,7 @@ title: "Tjänster"
 date: 2023-11-20T09:03:20-08:00
 draft: false
 Cover:
-    image: illustration-tjänster-svg
+    image: illustration-tjänster.svg
     alt: 'This is a post image' 
     caption: All copyrights reserved to JELENA AB 2023©
 ---
