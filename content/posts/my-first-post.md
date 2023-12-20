@@ -14,7 +14,8 @@ Cover:
 
 Abstrakt konst handlar om att skapa något som inte efterliknar eller representerar kända former eller strukturer. Inom arkitektur innebär detta att du får fria tyglar att experimentera och utmana dina fantasier. Du sätter gränserna och formerna, konstverken som du vill skapa är inte längre ifrån vad din fantasi kan sträcka sig. Utforska vilka konstverk som finns inom dig och se vilka unika föremål du kan skapa. 
 
-Vill du ha hjälp, inspiration eller har du redan en vision som du vill skapa tillsammans med oss? Kika in på fliken “Kontakta oss” och tveka inte på att höra av dig!
+Vill du ha hjälp, inspiration, eller har du redan en vision som du vill skapa tillsammans med oss? Kika in inlägget “Testa själv” eller hör av dig till oss så hjälper vi dig! All kontaktinformation hittar du under “Kontakta oss”.
+
 
 
 ### Skapandet
